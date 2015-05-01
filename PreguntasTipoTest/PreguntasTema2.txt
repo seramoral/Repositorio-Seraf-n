@@ -1,0 +1,15 @@
+1. ¿Qué implica un 100% de disponibilidad?
+
+A) Poder servir a tantos usuarios como se quiera
+B) No sufrir caidas no-programadas
+C) No sufrir ningún tipo de caída
+D) Ser tolerante a cualquier tipo de fallo
+Respuesta Correcta: B
+
+2. ¿A qué se refiere la escalabilidad?
+
+A) A la proporción de usuarios que es capaz de servir en un tiempo determinado  
+B) A la tolerancia a fallos
+C) A la probabilidad de que el sistema falle al servir a un usuario
+D) A la capacidad de un sistema de manejar la carga y al esfuerzo para adaptarse al nuevo nivel de carga
+Respuesta Correcta: D

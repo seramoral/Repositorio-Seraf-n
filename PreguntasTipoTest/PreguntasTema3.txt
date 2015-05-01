@@ -1,0 +1,19 @@
+1. ¿Como se puede hacer la comunicación entre backbones?
+
+A) Mediante un cortafuegos o configurando servidores con doble tarjeta de red
+B) Mediante un swich/hub
+C) Mediante un swich/hub o mediante un cortafuegos
+D) Configurando servidores con triple tarjeta de red
+
+Respuesta Correcta: A
+
+
+2. ¿Cuál de las siguientes afirmaciones sobre la conexión sólo al front-rail es cierta?  
+
+A) Requieren varias tarjetas de red 
+B) No es una configuración compatible con un servidor FTP
+C) No es apropiado para acceder sólo a Internet
+D) Los servicios ofrecidos quedan aislados
+
+Respuesta Correcta: D
+

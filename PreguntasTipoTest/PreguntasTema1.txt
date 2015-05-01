@@ -1,0 +1,17 @@
+
+1. ¿Cuál de las siguientes afirmaciones de los servidores de las granjas web no es cierta?
+
+A) Son sistemas complejos
+B) Están dedicados a servir contenido web a los usuarios finales
+C) Nunca sirven contenido estático
+D) Resuelven los problemas de sistemas más simples para dar servicio a un alto número de usuarios
+Respuesta correcta: C
+
+
+2. ¿Cuál es el problema de una configuración en la que se instalan todos los servicios en una sóla máquina?
+
+A) Experimentará problemas conforme aumente el tráfico
+B) Es lenta
+C) Es cara
+D) Es insegura
+Respuesta correcta: A

@@ -1,0 +1,16 @@
+1. ¿A qué hace referencia conexiones por segundo?
+
+A) Al número de conexiones de entrada que cierto dispositivo es capaz de manejar por segundo 
+B) Al número de usuarios que se conectan al servidor por segundo
+C) Al número de conexiones de salida que cierto dispositivo es capaz de manejar por segundo 
+D) Al número de conexiones concurrentes que cierto dispositivo es capaz de manejar por segundo 
+
+Respuesta Correcta: A
+
+2. ¿En qué tipo de prueba se aplican fuertes picos de carga durante cortos períodos?
+
+A) Estrés 
+B) Estabilidad
+C) Sobrecarga
+D) Carga
+Respuesta Correcta: C

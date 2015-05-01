@@ -1,0 +1,18 @@
+
+1. El balanceador de carga..
+
+A) Es un puente entre la red y los usuarios
+B) No puede manejar los protocolos de alto nivel
+C) Puede manejar los protocolos de nivel de red
+D) Es un puente entre los servidores y los usuarios
+
+Respuesta correcta: C
+
+2. ¿En cuál de los siguientes casos es apropiado el algoritmo Round-Robin?
+
+A) Cuando vamos a servir aplicaciones o servicios complejos
+B) Cuando vamos a servir aplicaciones o servicios sencillos
+C) Cuando unas máquinas tienen más potencia que otras 
+D) Cuando unas máquinas tienen más potencia que otras y queremos servir servicios complejos
+
+Respuesta correcta: B
