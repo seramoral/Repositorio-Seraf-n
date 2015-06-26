@@ -1,0 +1,17 @@
+1. ¿Cuál de las siguientes afirmaciones no es cierta? 
+
+a) Una BD se podrá escalar en el futuro si desde el principio se instaló hardware con capacidad de ampliación y se configuró software de manera adecuada
+b) Una mala configuración afectará a las prestaciones
+c) El hardware del resto del sistema web no puede actualizarse en cualquier momento casi sin que los usuarios lo noten
+d) El segundo elemento que más comúnmente falla en un servidor son los discos
+
+Respuesta correcta:c
+
+2. ¿Cual de las siguiente afirmaciones sobre RAID es cierta? 
+
+a) El RAID por software es mucho más rápido que uno configurado por hardware
+b) Los RAID por software son mucho más flexibles
+c) Los RAID por hardware son mucho más flexibles
+d) Ambos tipos de RAID son igual de flexibles
+
+Respuesta correcta:b

@@ -1,0 +1,19 @@
+1.- ¿Cuál de los siguientes es un dispositivo que actúa como un servidor de ficheros ahorrando los recursos de tener una máquina más?
+
+a) NAS
+b) SAN
+c) SSA
+d) Ninguna de las anteriores
+
+
+Respuesta correcta: a
+
+2. ¿En cuál de las siguientes tecnologías se emplea hardware para servidores? 
+
+a)En Dell
+b) En IBM
+c) En Microsoft
+d) En todas las anteriores
+
+Respuesta correcta:d
+
