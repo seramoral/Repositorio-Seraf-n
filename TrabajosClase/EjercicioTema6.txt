@@ -1,0 +1,12 @@
+T6.1
+
+Para aplicar con iptables una política de denegar todo el tráfico en una de las 
+máquinas de prácticas hacemos 
+
+sudo iptables -I INPUT 1 -j DROP
+sudo iptables -I OUTPUT 1 -j DROP
+
+Para aplicar con iptables una política de permitir todo el tráfico
+
+sudo iptables -I INPUT 1 -j ACCEPT
+sudo iptables -I OUTPUT 1 -j ACCEPT

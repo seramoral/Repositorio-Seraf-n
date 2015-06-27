@@ -1,0 +1,22 @@
+T7.1
+
+El tamaño de unidad de unidad RAID que se obtendrá al configurar un RAID 0 a partir 
+de dos discos de 100 GB y 100 GB es 100+100 = 200 GB.
+
+Del mismo modo, se obtienen 600 GB al configurar un RAID 0 a partir de 3 discos
+de 200 GB
+
+T7.2
+
+ El tamaño de unidad de unidad RAID que se obtendrá al configurar un RAID 1 a partir 
+de dos discos de 100 GB y 100 GB es 100GB
+
+De la misma forma, se obtienen 200 GB al configurar un RAID 1 a partir de 3 discos
+de 200 GB
+
+T7.3
+
+El tamaño de unidad de unidad RAID que se obtendrá al configurar un RAID 5 a partir de tres 
+discos de 120 GB cada uno es de 240 GB (se deja un dico para la paridad)
+
+T7.4 

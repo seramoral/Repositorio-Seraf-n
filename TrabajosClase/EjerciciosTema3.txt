@@ -1,0 +1,21 @@
+T3. 1
+
+Windows
+
+route ADD "IP RED" MASK "MASCARA" “PUERTA DE ENLACE”
+
+Linux
+
+route ADD "IP RED" MASK "MASCARA" “PUERTA DE ENLACE”
+
+route add default gw "PUERTA DE ENLACE"
+route add -net "SEGUNDA SUBRED" netmask "MASCARA" gw "PUERTA DE ENLACE 2º SUBRED"
+
+T3.2
+
+Windows
+
+Podemos abrir el FireWall de Windows así: Incio -> Panel de Control y allí nos 
+aparece el Firewall de Windows
+
+

@@ -1,0 +1,19 @@
+T2.1
+
+ 
+
+T2.2
+Entre los frameworks y librerías que hemos encontrado destacan:
+
+- Microsoft Operations Framework (MOF), que proporciona alta disponibilidad en productos y tecnologías de Microsoft.
+- IBM High Availability Cluster Multiprocessing para funcionar en clusters con SO AIX Unix e IBM System p y obtener un cluster de multiprocesamiento que sea altamente disponible.
+- Linux-HA: framework para clusters de alta disponibilidad cuyo sistema operativo sea Linux.
+
+T2.3
+Como herramientas importantes hemos encontrado:
+
+- Top
+- Gnome-System-Monitor
+- Munin
+- Nagios
+- Zabbix
